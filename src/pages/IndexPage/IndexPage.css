@@ -1,0 +1,29 @@
+.mainPart {
+    display: flex;
+}
+
+.leftPart {
+    flex: 1;
+    padding: 20px;
+
+}
+
+.leftPart img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.rightPart {
+    flex: 1;
+    padding: 20px;
+    background-color: rgb(224, 243, 246);
+}
+
+.separation {
+    padding-bottom: 15px;
+}
+
+.separationTitle {
+    padding-top: 15px;
+}

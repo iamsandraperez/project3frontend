@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+
+.App {
+  background-color: rgb(168, 206, 225);
+  background-size: cover;
+  height: 100vh;
+
+}
